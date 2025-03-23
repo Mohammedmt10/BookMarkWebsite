@@ -9,7 +9,7 @@ export function Footer() {
                 35,000+ ALREADY JOINED
             </div>
             <div className="text-3xl font-bold">
-                Stay up-to-date with what <br />
+                Stay up-to-date with what <br />fasdfasdfas
                 we're doing
             </div>
             <input type="text" placeholder="Enter your email address" className="w-56 px-4 mt-6 py-2 rounded bg-white text-black outline-0" />
