@@ -21,7 +21,7 @@ export function Main() {
             </div>
         </div>
         <div className="text-center relative">
-            <img src="https://tailwindfromscratch.com/website-projects/bookmark/images/illustration-hero.svg" alt="" className="relative z-[10] lg:top-16 xl:top-0 "/>
+            <img src="https://tailwindfromscratch.com/website-projects/bookmark/images/illustration-hero.svg" alt="" className="relative z-[10] lg:top-16 xl:top-0 p-5"/>
         <div className="hidden md:absolute lg:block z-[0] translate-x-60 top-52 min-w-4xl rounded-l-full min-h-76 bg-[#5368df]"></div>
         </div>
     </div>
