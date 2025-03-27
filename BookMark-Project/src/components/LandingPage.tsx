@@ -1,4 +1,4 @@
-import { RecoilRoot, useRecoilValue } from "recoil";
+import { RecoilRoot } from "recoil";
 import { Header } from "./Header";
 import { Main } from "./Main";
 
